@@ -1,0 +1,24 @@
+{
+  "name": "3-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thainguyencao/react.git"
+  },
+  "author": "Thai Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thainguyencao/react/issues"
+  },
+  "homepage": "https://github.com/thainguyencao/react#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
